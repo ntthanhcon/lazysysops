@@ -4,8 +4,7 @@
 
 - [Useful Linux Commands](#useful-linux-commands)
 - [Tools for Sysadmins](#tools-for-sysadmins)
-- [Best Practices](#best-practices)
-- [Contributing](#contributing)
+
 
 ## Useful Linux Commands
 
