@@ -8,10 +8,6 @@
 
 ## Useful Linux Commands
 
-
-### Network Troubleshooting
-
-#### Traceroute
 Traceroute is used to track the path that packets take from your system to a specified destination.
 
 ```bash
