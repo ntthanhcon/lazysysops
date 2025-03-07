@@ -21,11 +21,14 @@ traceroute 1.1.1.1
 MTR (My Traceroute)
 MTR provides real-time network diagnostics, combining the functionality of ping and traceroute.
 mtr 1.1.1.1
+```
 
+```bash
 Simple HTTP Server
 Python HTTP Server
 Start a simple HTTP server using Python to serve files from a directory.
 python3 -m http.server 8000
+```
 
 File Encryption and Decryption
 Encrypting a ZIP File
